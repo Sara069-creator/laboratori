@@ -9,7 +9,7 @@
 
 •	Determinar el funcionamiento de un sistema de circuitos a través de un simulador Tinkercad que nos va a indicar en diseño 3D.
 
-•	Determinar a través de un suministro de energía los valores de intensidad, voltaje y resistencia del circuito.
+•	Determinar a través de ecuaciones los valores de intensidad, voltaje y resistencia del circuito.
 
 •	Conocer la ley de Kirchhoff mediante procesos prácticos utilizando un multímetro para las mediciones de corrientes, resistencias y tenciones en los circuitos, a través de un protoboard, todo esto de manera simulada.
 
