@@ -100,4 +100,4 @@ State of the Art Analysis & Modeling Technologies http://www.sdw-latam.com/power
 
 ### ANEXOS
 
-![image](https://user-images.githubusercontent.com/75762187/102239172-92a91a00-3ec4-11eb-9cba-e1e188d3242f.png)
+![image](https://user-images.githubusercontent.com/75762187/102659569-98faf880-4147-11eb-9672-b7a81068f94a.png)
