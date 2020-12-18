@@ -19,7 +19,7 @@
 
 ### DIAGRAMA
 
-![image](https://user-images.githubusercontent.com/75762187/102236964-1dd4e080-3ec2-11eb-9a33-2e65a27c91ca.png)
+![image](https://user-images.githubusercontent.com/75762187/102658604-df4f5800-4145-11eb-94b6-d3a2d878f525.png)
 
 ### LISTA DE COMPONENTES
 
