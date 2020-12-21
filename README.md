@@ -39,6 +39,8 @@
 
 ### Tabla 1.4. Porcentaje de errores.
 
+![image](https://user-images.githubusercontent.com/75762187/102823738-7b2cce00-43a9-11eb-8899-6861f12e8066.png)
+
 ![image](https://user-images.githubusercontent.com/75762187/102823573-20937200-43a9-11eb-97dc-9d7e99d7443d.png)
 
 ### LISTA DE COMPONENTES
