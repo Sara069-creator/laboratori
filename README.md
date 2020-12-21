@@ -33,6 +33,10 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/102823260-9a772b80-43a8-11eb-972a-417e0a53de55.png)
 
+### Tabla 1.3. Verificación de la LCK.
+
+![image](https://user-images.githubusercontent.com/75762187/102823417-d7dbb900-43a8-11eb-9411-d737db85b7d9.png)
+
 ### LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75762187/102237456-aeabbc00-3ec2-11eb-81c1-c916e3325cbb.png)
