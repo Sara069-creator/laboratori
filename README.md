@@ -29,6 +29,10 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/102823075-32284a00-43a8-11eb-9f3a-7c1fb8d6936b.png)
 
+### Tabla 1.2. Verificación de la LVK.
+
+![image](https://user-images.githubusercontent.com/75762187/102823260-9a772b80-43a8-11eb-972a-417e0a53de55.png)
+
 ### LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75762187/102237456-aeabbc00-3ec2-11eb-81c1-c916e3325cbb.png)
