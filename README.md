@@ -21,6 +21,10 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/102658604-df4f5800-4145-11eb-94b6-d3a2d878f525.png)
 
+### CALCULOS
+
+![image](https://user-images.githubusercontent.com/75762187/102822947-fa210700-43a7-11eb-8fd6-f8bb90501a29.png)
+
 ### LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75762187/102237456-aeabbc00-3ec2-11eb-81c1-c916e3325cbb.png)
