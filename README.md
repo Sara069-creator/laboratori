@@ -25,6 +25,10 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/102822947-fa210700-43a7-11eb-8fd6-f8bb90501a29.png)
 
+### Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![image](https://user-images.githubusercontent.com/75762187/102823075-32284a00-43a8-11eb-9f3a-7c1fb8d6936b.png)
+
 ### LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75762187/102237456-aeabbc00-3ec2-11eb-81c1-c916e3325cbb.png)
