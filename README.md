@@ -25,23 +25,62 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/102822947-fa210700-43a7-11eb-8fd6-f8bb90501a29.png)
 
-### Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/75762187/102823075-32284a00-43a8-11eb-9f3a-7c1fb8d6936b.png)
+#### Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+| VARIABLE | VALOR CALCULADO | VALOR MEDIO |
+| --- | :---: | :---: |
+|Vr1 (V) | 2.05	|2.05|
+|Ir1 (mA) | 2.59	|2.59|
+|Vr2 (V) | 4.24	|4.25|
+|Ir2 (mA) | 3.55	|3.57|
+|Vr3 (V) | 2.15	|2.12|
+|Ir3 (mA) | 1.51	|1.52|
+|Vr4 (V) | 2.15	|2.12|
+|Ir4 (mA) | 1.51	|1.52|
+|Vr5 (V) | 3.69	|3.7|
+|Ir5 (mA) | 3.26	|3.26|
 
-### Tabla 1.2. Verificación de la LVK.
 
-![image](https://user-images.githubusercontent.com/75762187/102823260-9a772b80-43a8-11eb-972a-417e0a53de55.png)
+#### Tabla 1.2. Verificación de la LVK.
+| |Trayectoria 1	|	Trayectoria 2|		Trayectoria 3|	
+| --- | :---: | :---: | :---: |
+|VOLTAJE|	Calculado\| Medido|	Calculado\|	Medido|	Calculado\|	Medido|
+|Vt(V) |	10.00\|10.00|	10.00\|	10.00|0\|   0|
+|Vr1 (V) |	2.05\|	2.05|	0\|	0	|0\|	0|
+|Vr2 (V) |	4.26\|	4.25|	4.26\|	4.25	|0\|	0|
+|Vr3 (V) |	0\|	0|	2.15\|	2.12\|	|0\|	0|
+|Vr4 (V) |	0\|	0	|2.15\|	2.12\|	|0\|	0|
+|Vr5 (V) |	3.69\|	3.7	| 0\|	0	|0\|	0|
+|∑V|	20.01\|	20|	18.56\|	18.49	|0\|	0|
 
-### Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/75762187/102823417-d7dbb900-43a8-11eb-9411-d737db85b7d9.png)
+#### Tabla 1.3. Verificación de la LCK.
+|	|Nodo 1|		Nodo 2	|	Nodo 3	|	Nodo4|		Nodo5|	
+|---|:---:|:---:|:---:|:---:|:---:|
+|CORRIENTE|	Calculado\|	Medido	|Calculado	Medido|	Calculado\|	Medido|	Calculado\|	Medido|	Calculado\|	Medido|
+|It(mA)|	2.05\|	2.05|	0\|	0|	0\|	0|	0\|	0|	0\|	0|
+|Ir1(mA)|	0\|	0|	2.05\|	2.05|	0\|	0|	0\|	0|	0\|	0|
+|Ir2(mA)|	0\|	0|	1.066\|	1.09|	0\|	0|	1.06\|	1.09|	0\|0|	
+|Ir3(mA)|	0\|	0|	0.94\|	0.95|	0.94\|	0.96|	0\|	0|	0\|	0|
+|Ir4(mA)|	0\|	0|	0\|	0	|0.94\|	0.96|	0.94\|	0.96|	0\|	0|
+|Ir5(mA)|	0\|	0|	0\|	0|	0\|	0|	0\|	0|	2.06\|	2.05|
+|∑I|	2.05\|	2.05	|4.056\|	4.09|	3.88\|	1.92|	2\|	2.05|	2.06\|	2.05|
 
-### Tabla 1.4. Porcentaje de errores.
+
+
+##### Tabla 1.4. PORCENTAJE DE ERROR
 
 ![image](https://user-images.githubusercontent.com/75762187/102823738-7b2cce00-43a9-11eb-8899-6861f12e8066.png)
 
-![image](https://user-images.githubusercontent.com/75762187/102823573-20937200-43a9-11eb-97dc-9d7e99d7443d.png)
+
+|Resistencias|	Medido(V)|	Calculado(V)|	Medido(I)|	Calculado(I)|	%Error(V)|	%Error(I)|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|𝑅_1=1𝐾Ω	|2.05	|2.05	|2,59	|2,59	|0|	0|
+|𝑅_2=3.9𝐾Ω|	4.24|	4,25|	3.55|	3.57|	0.235|	0.560|
+|𝑅_3=2.2𝐾Ω|	2.15|	2.12|	1.51|	1.52|	-1.415|	0.657|
+|𝑅_4=2.2𝐾Ω|	2.15|	2.12|	1.51|	1.52|	-1.415|	0.657|
+|𝑅_5=1.8𝐾Ω|	3.69|	3.70|	3.26|	3.26|	0.270|	0|
+
 
 ### LISTA DE COMPONENTES
 
